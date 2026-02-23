@@ -17,6 +17,6 @@ The following stack I'm usually building in:
 
 # Socials
 
-- [Linkedin](www.linkedin.com/in/nick-lanasa-14b63533b)
+- [Linkedin](https://www.linkedin.com/in/nick-lanasa-14b63533b)
 - [X](https://x.com/nicklanasa)
 - [YouTube](https://www.youtube.com/@nicklanasa)

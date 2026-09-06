@@ -6,4 +6,4 @@ Currently at [ECP](https://ecp123.com), where I'm leading a team building the ne
 
 # Tech Stack
 
-VS Code + Codex. What a great time to be alive.
+Emacs + Codex. What a great time to be alive.
